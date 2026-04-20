@@ -2,6 +2,9 @@
 
 Designed for Marketing Research
 
-**Literature Review**
-
-litreview.md is for initial litreature search.
+Structure Draft
+Scientific-Skills
+├─ literature_review/   # 文献综述、文献检索、综述笔记
+├─ data cleaning/           
+├─ model/               
+└─ paper_draft/         
